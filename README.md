@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Kapture 2022-09-05 at 23 03 21](https://user-images.githubusercontent.com/83421930/188538971-026f4ac3-67ef-44f4-9e2a-40d2a3597694.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=(https://imgur.com/a/tjj90yZ) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
