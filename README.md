@@ -12,15 +12,15 @@ The following **required** functionality is completed:
 
 - [x] **User has 3 chances to guess a random 4 letter word**
 - [x] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [x] **After each guess, user sees the "correctness" of the guess**
+- [x] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
 - [ ] User can toggle betweeen different word lists
-- [ ] User can see the 'correctness' of their guess through colors on the word 
+- [x] User can see the 'correctness' of their guess through colors on the word 
 - [ ] User sees a visual change after guessing the correct word
-- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
+- [x] User can tap a 'Reset' button to get a new word and clear previous guesses
 - [ ] User will get an error message if they input an invalid guess
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-(https://imgur.com/gallery/lRBVEZF)
+[Kapture 2022-12-12 at 21 48 44](https://user-images.githubusercontent.com/83421930/207215463-0e728d5d-39e9-446c-8eb8-c76e47d0dc12.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
